@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "esp_tokenonline_v0_hexing_hex116kp"
+		},
+		{
+			"name": "esp_tokenonline_v0_itron_em512java",
+			"path": "esp_tokenonline_v0_itron_em512java"
+		},
+		{
+			"name": "esp_tokenonline_v0_itron_ace9000",
+			"path": "esp_tokenonline_v0_itron_ace9000"
+		},
+		{
+			"name": "esp_tokenonline_v0_melcoinda_mts125v1",
+			"path": "esp_tokenonline_v0_melcoinda_mts125v1"
+		},
+		{
+			"name": "esp_tokenonline_v0_sanxing_p124a",
+			"path": "esp_tokenonline_v0_sanxing_p124a"
+		},
+		{
+			"name": "esp_tokenonline_v0_smartmeter_smi810",
+			"path": "esp_tokenonline_v0_smartmeter_smi810"
+		}
+	],
+	"settings": {}
+}
