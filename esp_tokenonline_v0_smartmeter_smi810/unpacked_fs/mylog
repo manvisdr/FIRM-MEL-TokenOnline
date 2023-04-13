@@ -1,0 +1,10 @@
+2023-03-01 14:32:32.0951 I system  [TokenProcess:3017] Token Process: Capture Status Success
+2023-03-01 14:32:33.0587 I system  [TokenProcess:3123] Token Process: Capture Nominal Success
+2023-03-01 14:32:35.0208 I system  [TokenProcess:3205] Token Process: Capture Saldo Success
+2023-03-01 14:32:35.0194 I system  [TokenProcess:3223] Token Process -> Sound Validation: invalid
+202 - [I][1970/01/01 07:00:03]: [MqttReconnect:1639] Mqtt Reconnected
+ - [W][2023/03/07 11:43:13]: [GetKwhProcess:2037] Bluetooth Stop if Upload from SPIFFS
+ - [I][2023/03/07 11:43:13]: [GetKwhProcess:2040] Receive Mqtt: Get KWH
+ - [I][2023/03/07 11:43:14]: [GetKwhProcess:2047] Capture And Upload Image Get KWH : success
+ - [I][2023/03/07 11:43:43]: [GetKwhProcess:2040] Receive Mqtt: Get KWH
+ - [I][2023/03/07 11:43:45]: [GetKwhProcess:2047] Capture And Upload Image Get KWH : success

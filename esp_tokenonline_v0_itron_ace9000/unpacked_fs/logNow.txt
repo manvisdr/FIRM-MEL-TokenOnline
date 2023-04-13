@@ -1,0 +1,2 @@
+%s HAHADebugLog can print variable args: current log level is 1
+[ERROR] main.cpp L.3887 DebugLogError : 16:02:31 IDLE

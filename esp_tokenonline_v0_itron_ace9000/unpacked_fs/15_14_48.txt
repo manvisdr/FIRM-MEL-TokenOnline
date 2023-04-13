@@ -1,0 +1,1 @@
+DebugLog can print variable args: current log level is 1

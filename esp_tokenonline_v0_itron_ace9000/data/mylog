@@ -1,0 +1,76 @@
+0:00:00:01.0731 I system  hello world!
+2023-02-26 07:04:38.0625 I system  get kwh process
+2023-02-26 07:04:38.0624 W system  get kwh OK
+2023-02-26 07:04:38.0624 W system  get kwh done
+2023-02-26 07:04:45.0470 I system  get kwh process
+2023-02-26 07:04:45.0469 W system  get kwh OK
+2023-02-26 07:04:45.0469 W system  get kwh done
+2023-02-26 07:04:48.0819 I system  token process
+2023-02-26 07:04:58.0446 W system  capture token oke
+2023-02-26 07:04:58.0446 W system  capture token done
+2023-02-26 07:04:58.0445 W system  upload token process
+2023-02-26 07:04:58.0038 W system  upload token nominal oke
+2023-02-26 07:04:59.0693 W system  upload token saldo oke
+2023-02-26 07:04:59.0691 W system  token process done
+2023-02-26 07:05:04.0928 I system  token process
+2023-02-26 07:05:15.0436 W system  capture token oke
+2023-02-26 07:05:15.0435 W system  capture token done
+2023-02-26 07:05:15.0434 W system  upload token process
+2023-02-26 07:05:15.0102 W system  upload token nominal oke
+2023-02-26 07:05:16.0760 W system  upload token saldo oke
+2023-02-26 07:05:16.0759 W system  token process done
+2023-02-26 07:05:23.0647 I system  get kwh process
+2023-02-26 07:05:23.0646 W system  get kwh OK
+2023-02-26 07:05:23.0646 W system  get kwh done
+2023-02-26 07:05:34.0315 I system  get kwh process
+2023-02-26 07:05:34.0314 W system  get kwh OK
+2023-02-26 07:05:34.0314 W system  get kwh done
+2023-02-26 07:05:39.0521 I system  token process
+2023-02-26 07:05:49.0093 W system  capture token oke
+2023-02-26 07:05:49.0092 W system  capture token done
+2023-02-26 07:05:49.0091 W system  upload token process
+2023-02-26 07:05:50.0734 W system  upload token nominal oke
+2023-02-26 07:05:50.0382 W system  upload token saldo oke
+2023-02-26 07:05:50.0380 W system  token process done
+2023-02-26 07:05:55.0234 I system  token process
+2023-02-26 07:06:06.0708 W system  capture token oke
+2023-02-26 07:06:06.0707 W system  capture token done
+2023-02-26 07:06:06.0707 W system  upload token process
+2023-02-26 07:06:06.0348 W system  upload token nominal oke
+2023-02-26 07:06:06.0991 W system  upload token saldo oke
+2023-02-26 07:06:06.0990 W system  token process done
+2023-02-26 07:06:15.0879 I system  token process
+2023-02-26 07:06:25.0375 W system  capture token oke
+2023-02-26 07:06:25.0374 W system  capture token done
+2023-02-26 07:06:25.0374 W system  upload token process
+2023-02-26 07:06:25.0044 W system  upload token nominal oke
+2023-02-26 07:06:26.0687 W system  upload token saldo oke
+2023-02-26 07:06:26.0686 W system  token process done
+2023-02-26 07:06:31.0899 I system  get kwh process
+2023-02-26 07:06:31.0898 W system  get kwh OK
+2023-02-26 07:06:31.0898 W system  get kwh done
+2023-02-26 07:06:36.0691 I system  token process
+2023-02-26 07:06:46.0482 W system  capture token oke
+2023-02-26 07:06:46.0481 W system  capture token done
+2023-02-26 07:06:46.0481 W system  upload token process
+2023-02-26 07:06:46.0112 W system  upload token nominal oke
+2023-02-26 07:06:47.0761 W system  upload token saldo oke
+2023-02-26 07:06:47.0760 W system  token process done
+2023-02-26 07:08:33.0334 I system  token process
+2023-02-26 07:08:44.0727 W system  capture token oke
+2023-02-26 07:08:44.0726 W system  capture token done
+2023-02-26 07:08:44.0726 W system  upload token process
+2023-02-26 07:08:45.0378 W system  upload token nominal oke
+2023-02-26 07:08:46.0207 W system  upload token saldo oke
+2023-02-26 07:08:46.0206 W system  token process done
+2023-02-26 07:09:36.0349 I system  token process
+2023-02-26 07:09:46.0945 W system  capture token oke
+2023-02-26 07:09:46.0944 W system  capture token done
+2023-02-26 07:09:46.0944 W system  upload token process
+2023-02-26 07:09:48.0785 W system  upload token nominal oke
+2023-02-26 07:09:49.0635 W system  upload token saldo oke
+2023-02-26 07:09:49.0634 W system  token process done
+2023-02-26 07:09:55.0609 I system  token process
+2023-02-26 07:10:05.0983 W system  capture token oke
+2023-02-26 07:10:05.0982 W system  capture token done
+2023-02-26 07:10:05.0982 W sy
