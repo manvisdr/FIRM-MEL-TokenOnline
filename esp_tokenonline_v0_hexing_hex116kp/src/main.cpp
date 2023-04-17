@@ -18,7 +18,6 @@
 #include <driver/i2s.h>
 #include <math.h>
 #include <arduinoFFT.h>
-#include <sos-iir-filter.h>
 #include <ESP32Ping.h>
 
 #include <TimeLib.h>
